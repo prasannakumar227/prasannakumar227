@@ -71,14 +71,6 @@ Valluvan is a breakthrough mobile application designed to empower native Tamil s
 
 <br>
 <p align=center>
-  <a href="https://linkedin.com/in/prasanna-kumar-n">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:prasanna22702@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Mail Badge">
-  </a>
-</p>
-<p align=center>
   <i>Let's connect and make the world a better place</i>
 </p>
 <p align=center>
