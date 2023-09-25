@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=prasannakumar227&show_icons=true&theme=github_dark' width='380"'>
 
-> Computer Science Enthusiast 🚀 | Web Developer 🌐 | Cybersecurity Buff 🔒
+> Computer Science Enthusiast 🚀 | Innovator 💡| Web Developer 🌐 | Cybersecurity Buff 🔒
 
 - 🔭 I'm currently exploring **Cybersecurity** and **Web Development**.
 - 💬 Let's discuss about innovations, tech trends, and projects.
