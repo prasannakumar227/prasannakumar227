@@ -6,9 +6,9 @@
 
 - 🔭 I'm currently exploring **Cybersecurity** and **Web Development**.
 - 💬 Let's discuss about innovations, tech trends, and projects.
-- 📫 Reach me at: [prasanna22702@gmail.com](mailto:prasanna22702@gmail.com)
-- [<img align="left" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />LinkedIn](https://linkedin.com/in/prasanna-kumar-n)
-- [<img align="left" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />GitHub](https://github.com/prasannakumar227)
+- 📫 Reach me at:
+  - [<img align="left" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />LinkedIn](https://linkedin.com/in/prasanna-kumar-n)
+  - [<img align="left" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />GitHub](https://github.com/prasannakumar227)
 
   
 <br>
