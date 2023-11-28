@@ -25,6 +25,7 @@
 | 🖼️ **Image Processing** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv) ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=flat-square&logo=matplotlib)  |
 | 🔐 **Security Tools** | ![NMap](https://img.shields.io/badge/-NMap-007ACC?style=flat-square&logo=nmap) ![Nessus](https://img.shields.io/badge/-Nessus-394244?style=flat-square&logo=nessus) ![Metasploit](https://img.shields.io/badge/-Metasploit-394244?style=flat-square&logo=metasploit)  |
 | 🖥️ **OS**         | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows) ![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=apple) |
+| 🗃️ **Database**   | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql) |
 
 ## 🔍 Projects
 
